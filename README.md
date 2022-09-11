@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Discord token generator](https://github.com/HectorsGrav3/Discord-Tokne-Generator)
+- 🔭 I’m currently working on [Discord Token Generator](https://github.com/HectorsGrav3/Discord-Tokne-Generator)
 
 - 🌱 I’m currently learning **C++**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ektorsot6@gmail.com**
 
-- ⚡ Fun fact **TOP G**
+- ⚡ Fun fact **TOP G FAN**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
