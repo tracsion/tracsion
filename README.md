@@ -16,7 +16,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=HectorsGrav3.HectorsGrav3&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=HectorsGrav3.HectorsGrav3&label=Profile%20Views" alt="Profile Views" />
 </div>
 
 ###
