@@ -16,7 +16,7 @@
 ###
 
 <div align="center">
-  <img src="![](https://komarev.com/ghpvc/?username=HectorsGrav3&color=green)" alt="Profile Views" />
+  <img src="![](https://komarev.com/ghpvc/?username=HectorsGrav3&color=green)" />
 </div>
 
 ###
