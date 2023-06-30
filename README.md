@@ -16,7 +16,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=HectorsGrav3.HectorsGrav3&label=Profile%20Views" alt="Profile Views" />
+  <img src="![](https://komarev.com/ghpvc/?username=HectorsGrav3&color=green)" alt="Profile Views" />
 </div>
 
 ###
