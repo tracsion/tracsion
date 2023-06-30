@@ -3,11 +3,15 @@
 </div>
 
 <div align="left">
-  <a href="https://e-z.bio/notorioushector" target="_blank">Contact Me</a>
-</div>
+  <p align="center"><em>Feel free to reach out to me:</em></p>
 
-<div align="left">
-  <a href="https://paypal.me/RipZyzz" target="_blank">PayPal Me</a>
+  <p align="center">
+    <a href="https://e-z.bio/notorioushector" target="_blank">Contact Me</a> - Drop me a message!
+  </p>
+
+  <p align="center">
+    <a href="https://paypal.me/RipZyzz" target="_blank">PayPal Me</a> - Support my work!
+  </p>
 </div>
 
 <div align="center">
