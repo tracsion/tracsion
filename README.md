@@ -25,3 +25,7 @@
 <br/>
 
 ---
+
+<div align="center">
+  <a href="https://e-z.bio/notorioushector" target="_blank">Contact Me</a>
+</div>
