@@ -5,13 +5,13 @@
 <br/>
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=5a1sv3mhqgh69ppt4r3rx8iqi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Status" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=HectorsGrav3&style=flat-square" alt="Profile Views" align="center" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HectorsGrav3&style=flat-square" alt="Profile Views" align="center" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=5a1sv3mhqgh69ppt4r3rx8iqi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Status" align="center" />
 </div>
 
 <br/>
@@ -25,5 +25,3 @@
 <br/>
 
 ---
-
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">GitHub Profilinator</a></div>
