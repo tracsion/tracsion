@@ -16,7 +16,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=HectorsGrav3.HectorsGrav3&left_text=Profile Views"  />
+  <img src="https://profile-counter.glitch.me/HectorsGrav3/count.svg?"  />
 </div>
 
 ###
