@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Hector from Antarctica<br><br>- 💀 I mostly code in my free time<br>- ☠️ My main language is python</p>
+<p align="left">I'm Hector from Europe<br><br>- 💀 I mostly code in my free time<br>- ☠️ My main language is python</p>
 
 ###
 
