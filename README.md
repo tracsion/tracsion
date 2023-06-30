@@ -61,8 +61,8 @@
 ###
 
 <div align="center">
-  <a href="[https://open.spotify.com/user/Hector 🏴‍☠️](https://open.spotify.com/user/5a1sv3mhqgh69ppt4r3rx8iqi?si=9d0a0c880da2421c)">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=1&unique=true" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/Hector 🏴‍☠️">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=5a1sv3mhqgh69ppt4r3rx8iqi&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
