@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Hector from Europe<br><br>- 💀 I mostly code in my free time<br>- ☠️ My main language is python</p>
+<p align="left">I'm Hector from Europe<br><br>- 💀 I mostly code in my free time<br>- ☠️ My main language is C++</p>
 
 ###
 
@@ -35,8 +35,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bots" height="40" alt="abbrobotstudio logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
