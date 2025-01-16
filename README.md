@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">I'm Hector from Europe<br><br>- 💀 I mostly code in my free time<br>- ☠️ My main language is C++</p>
+<p align="left">I'm Hector from Europe<br><br>- 💀 And I love making malware for education ofc.<br>- ☠️ My main language is C++</p>
 
 ###
 
