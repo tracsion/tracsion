@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Hector, a passionate developer from Europe. I enjoy creating innovative software solutions and exploring the latest tech trends. Let's build something amazing together!
+I'm Hector, a passionate developer from Europe. I enjoy creating malware and other tech trends. Let's build something amazing together!
 
 ## About Me
 
@@ -12,19 +12,19 @@ Currently based in Europe, I'm an enthusiastic developer looking to make a mark 
 
 ## Top Projects
 
-- [HectorsGrav3](https://github.com/HectorsGrav3/HectorsGrav3): A collection of my projects. ⭐️ 0
-- [Malware-With-Chat-GPT](https://github.com/HectorsGrav3/Malware-With-Chat-GPT): A repository where I store all the malicious content I made with ChatGPT. ⭐️ 5 (C++)
-- [RedTrace-Ransomware](https://github.com/HectorsGrav3/RedTrace-Ransomware): An educational project designed to demonstrate how ransomware operates. ⭐️ 0 (Python)
-- [Chat-Server](https://github.com/HectorsGrav3/Chat-Server): A multithreaded chat application. ⭐️ 0 (C++)
-- [Network-Scanner](https://github.com/HectorsGrav3/Network-Scanner): A multithreaded network scanner. ⭐️ 0 (C++)
+[![HectorsGrav3](https://github-readme-stats.vercel.app/api/pin/?username=HectorsGrav3&repo=HectorsGrav3&theme=dark)](https://github.com/HectorsGrav3/HectorsGrav3)
+[![Malware-With-Chat-GPT](https://github-readme-stats.vercel.app/api/pin/?username=HectorsGrav3&repo=Malware-With-Chat-GPT&theme=dark)](https://github.com/HectorsGrav3/Malware-With-Chat-GPT)
+[![RedTrace-Ransomware](https://github-readme-stats.vercel.app/api/pin/?username=HectorsGrav3&repo=RedTrace-Ransomware&theme=dark)](https://github.com/HectorsGrav3/RedTrace-Ransomware)
+[![Chat-Server](https://github-readme-stats.vercel.app/api/pin/?username=HectorsGrav3&repo=Chat-Server&theme=dark)](https://github.com/HectorsGrav3/Chat-Server)
+[![Network-Scanner](https://github-readme-stats.vercel.app/api/pin/?username=HectorsGrav3&repo=Network-Scanner&theme=dark)](https://github.com/HectorsGrav3/Network-Scanner)
 
 ## GitHub Stats
-
 🔹 Public Repositories: 6  
 🔹 Followers: 2  
 🔹 Following: 0  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HectorsGrav3&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HectorsGrav3&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Recent Activity
 
