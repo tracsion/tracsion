@@ -32,10 +32,6 @@ cpp,c,html,css,git,docker,flask,fastapi,graphql,linux,vue,react,discordjs,aws,my
 - Updated [Malware-With-Chat-GPT](https://github.com/HectorsGrav3/Malware-With-Chat-GPT) with new malicious content.
 - Contributed to [RedTrace-Ransomware](https://github.com/HectorsGrav3/RedTrace-Ransomware).
 
-## Latest Blog Posts
-
-No recent blog posts yet. Stay tuned!
-
 ## Connect with Me
 
-{}
+https://e-z.bio/hector
