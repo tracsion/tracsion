@@ -8,7 +8,7 @@ Currently based in Europe, I'm an enthusiastic developer looking to make a mark 
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,html,css,git,docker,flask,fastapi,graphql,linux,vue,react,discordjs,aws,mysql,postgres&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,html,css,git,docker,flask,fastapi,linux,discordjs,mysql&perline=8)](https://skillicons.dev)
 
 ## Top Projects
 
