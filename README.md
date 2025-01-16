@@ -1,54 +1,41 @@
-<div align="center">
-  <a href="https://e-z.bio/hector" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=E-Z BIO&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</div>
+## Hi there! 👋
 
-###
+I'm Hector, a passionate developer from Europe. I enjoy creating innovative software solutions and exploring the latest tech trends. Let's build something amazing together!
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HectorsGrav3&color=blue" />
-</div>
+## About Me
 
-###
+Currently based in Europe, I'm an enthusiastic developer looking to make a mark in the tech world. I have a diverse range of interests and am always eager to learn and grow in my field. Check out my socials here: [e-z.bio/hector](https://e-z.bio/hector).
 
-<h1 align="center">Hi there</h1>
+## Skills & Technologies
 
-###
+cpp,c,html,css,git,docker,flask,fastapi,graphql,linux,vue,react,discordjs,aws,mysql,postgres
 
-<h3 align="left">👩‍💻  About Me</h3>
+## Top Projects
 
-###
+- [HectorsGrav3](https://github.com/HectorsGrav3/HectorsGrav3): A collection of my projects. ⭐️ 0
+- [Malware-With-Chat-GPT](https://github.com/HectorsGrav3/Malware-With-Chat-GPT): A repository where I store all the malicious content I made with ChatGPT. ⭐️ 5 (C++)
+- [RedTrace-Ransomware](https://github.com/HectorsGrav3/RedTrace-Ransomware): An educational project designed to demonstrate how ransomware operates. ⭐️ 0 (Python)
+- [Chat-Server](https://github.com/HectorsGrav3/Chat-Server): A multithreaded chat application. ⭐️ 0 (C++)
+- [Network-Scanner](https://github.com/HectorsGrav3/Network-Scanner): A multithreaded network scanner. ⭐️ 0 (C++)
 
-<p align="left">I'm Hector from Europe<br><br>- 💀 And I love making malware for education ofc.<br>- ☠️ My main language is C++</p>
+## GitHub Stats
 
-###
+🔹 Public Repositories: 6  
+🔹 Followers: 2  
+🔹 Following: 0  
 
-<h3 align="left">🛠 Language and tools</h3>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HectorsGrav3&show_icons=true&theme=radical)
 
-###
+## Recent Activity
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/lua/2C2D72" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-</div>
+- Created [Chat-Server](https://github.com/HectorsGrav3/Chat-Server) - A multithreaded chat application.
+- Updated [Malware-With-Chat-GPT](https://github.com/HectorsGrav3/Malware-With-Chat-GPT) with new malicious content.
+- Contributed to [RedTrace-Ransomware](https://github.com/HectorsGrav3/RedTrace-Ransomware).
 
-###
+## Latest Blog Posts
 
-<h3 align="left">🔥   My Stats :</h3>
+No recent blog posts yet. Stay tuned!
 
-###
+## Connect with Me
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=HectorsGrav3&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+{}
