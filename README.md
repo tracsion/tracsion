@@ -34,4 +34,4 @@ Currently based in Europe, I'm an enthusiastic developer looking to make a mark 
 
 ## Connect with Me
 
-https://e-z.bio/hector
+https://e-z.bio/tracsion
