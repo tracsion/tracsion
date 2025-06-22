@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Hector, a passionate developer from Europe. I enjoy creating malware and other tech trends. Let's build something amazing together!
+I'm a passionate developer from Europe. I enjoy creating malware and other tech trends. Let's build something amazing together!
 
 ## About Me
 
