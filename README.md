@@ -4,7 +4,7 @@ I'm a passionate developer from Europe. I enjoy creating malware and other tech 
 
 ## About Me
 
-Currently based in Europe, I'm an enthusiastic developer looking to make a mark in the tech world. I have a diverse range of interests and am always eager to learn and grow in my field. Check out my socials here: [e-z.bio/hector](https://e-z.bio/hector).
+Currently based in Europe, I'm an enthusiastic developer looking to make a mark in the tech world. I have a diverse range of interests and am always eager to learn and grow in my field. Check out my socials here: [e-z.bio/tracsion](https://e-z.bio/tracsion).
 
 ## Skills & Technologies
 
