@@ -1,4 +1,4 @@
-<h1 align="center">❄️ Hector here</h1>
+<h1 align="center">Hi :)</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Writing+code+in+C%2B%2B+%26+Rust;Breaking+things+to+learn+them;Minimalism+%26+performance+🔧" alt="Typing SVG" />
@@ -34,8 +34,7 @@
 
 <h2 align="left">📫 Connect with me</h2>
 
-- Email: `you@example.com`
-- Maybe add a LinkedIn or personal site here
+https://e-z.bio/tracsion
 
 ---
 
