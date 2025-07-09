@@ -8,10 +8,10 @@
 
 <h2 align="left">🧊 About me</h2>
 
-- 🔍 Exploring systems programming and low-level stuff
-- ❄️ Obsessed with clean, minimal, fast code
-- 🐧 Linux power user (and rice addict)
-- 🚀 Goals: contribute to open source, build neat CLI & game engine tools
+- Exploring systems programming and low-level stuff
+- Obsessed with clean, minimal, fast code
+- Linux power user (and rice addict)
+- Goals: contribute to open source, build neat CLI & game engine tools
 
 ---
 
@@ -27,8 +27,8 @@
 
 <h2 align="left">🌌 Currently</h2>
 
-- 🧬 Learning: advanced Rust traits & lifetimes, C++20/23
-- 🐚 Tinkering with: NixOS, Gentoo, custom terminal setups
+- Learning: advanced Rust traits & lifetimes, C++20/23
+- Tinkering with: NixOS, Gentoo, custom terminal setups
 
 ---
 
