@@ -24,7 +24,7 @@
 <h2 align="left">🌌 Currently</h2>
 
 - Learning: advanced Rust traits & lifetimes, C++20/23
-- Tinkering with: NixOS, Gentoo, custom terminal setups
+- Tinkering with: arch (not a femboy)
 
 ---
 
