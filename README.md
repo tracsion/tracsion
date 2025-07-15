@@ -16,7 +16,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="Rust" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="40" alt="Rust" />
 </div>
 
 ---
@@ -30,7 +30,7 @@
 
 <h2 align="left">📫 Connect with me</h2>
 
-https://e-z.bio/tracsion
+[https://e-z.bio/tracsion](https://e-z.bio/tracsion)
 
 ---
 
