@@ -25,6 +25,7 @@
 
 - Learning: advanced Rust traits & lifetimes, C++20/23
 - Tinkering with: arch (not a femboy)
+- Tinkering with CS:GO HVH cheats...
 
 ---
 
