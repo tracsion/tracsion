@@ -31,7 +31,7 @@
 
 <h2 align="left">📫 Connect with me</h2>
 
-[https://e-z.bio/tracsion](https://e-z.bio/tracsion)
+[https://e-z.bio/nochinsky](https://e-z.bio/nochinsky)
 
 ---
 
