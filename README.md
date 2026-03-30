@@ -4,10 +4,10 @@
 
 <h2 align="left">🧊 About me</h2>
 
-- Exploring systems programming and low-level stuff
+- Exploring systems programming
 - Obsessed with clean, minimal, fast code
-- Linux power user (and rice addict)
-- Goals: contribute to open source, build neat CLI & game engine tools
+- Linux power user
+- Goals: contribute to open source, build neat CLI
 
 ---
 
@@ -24,7 +24,6 @@
 <h2 align="left">🌌 Currently</h2>
 
 - Learning: advanced Rust traits & lifetimes, C++20/23
-- Tinkering with: arch (not a femboy)
 - Tinkering with CS:GO HVH cheats...
 
 ---
